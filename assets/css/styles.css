@@ -357,15 +357,15 @@ img{
   color: #afd4e9;
 }
 .parking {
-  background: url("../img/parking.jpg");
+  background: url("https://github.com/nachiketgalande1609/NachiketGalande/blob/master/assets/img/parking.jpg?raw=true");
   background-size: cover;
 }
 .food {
-  background: url("../img/food.jpg");
+  background: url("https://github.com/nachiketgalande1609/NachiketGalande/blob/master/assets/img/food.jpg?raw=true");
   background-size: cover;
 }
 .mind {
-  background: url("../img/mind.jpg");
+  background: url("https://github.com/nachiketgalande1609/NachiketGalande/blob/master/assets/img/mind.jpg?raw=true");
   background-size: cover;
 }
 
