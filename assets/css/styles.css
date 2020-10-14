@@ -368,6 +368,10 @@ img{
   background: url("https://github.com/nachiketgalande1609/NachiketGalande/blob/master/assets/img/mind.jpg?raw=true");
   background-size: cover;
 }
+.blog {
+  background: url("https://github.com/nachiketgalande1609/NachiketGalande/blob/master/assets/img/blog.jpeg?raw=true");
+  background-size: cover;
+}
 
 /* ===== FOOTER =====*/
 .footer{
