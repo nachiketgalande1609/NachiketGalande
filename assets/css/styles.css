@@ -357,15 +357,15 @@ img{
   color: #afd4e9;
 }
 .parking {
-  background: url("/assets/img/parking.jpg");
+  background: url("../img/parking.jpg");
   background-size: cover;
 }
 .food {
-  background: url("/assets/img/food.jpg");
+  background: url("../img/food.jpg");
   background-size: cover;
 }
 .mind {
-  background: url("/assets/img/mind.jpg");
+  background: url("../img/mind.jpg");
   background-size: cover;
 }
 
